@@ -1,2 +1,1 @@
-# code_books
-This repo contains books related to coding
+The books for more productive style.
